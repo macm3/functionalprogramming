@@ -1,5 +1,5 @@
-# programacaofuncional
-Functional Programming - IF708 - CIn/UFPE - PhD. Márcio Cornélio - 2018.1.
+#Functional Programming (IF708)
+CIn/UFPE - PhD. Márcio Cornélio - 2018.1.
 
 To compile:
 * go to file's folder
